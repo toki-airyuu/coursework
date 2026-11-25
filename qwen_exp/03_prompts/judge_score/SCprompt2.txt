@@ -1,0 +1,1 @@
+Проанализируй инструкции из generated_steps.xlsx. Индексы совпадают в обоих файлах. Исходный инцедент находится в incidents.xlsx, категория: generated_steps.xlsx, incidents.xlsx, инструкция в generated_steps.xlsx под соответствующим индексом. Составь таблицу со столбцами safety, completeness, specificity, hallucination, comments (как выше)
